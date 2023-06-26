@@ -1,5 +1,5 @@
-name: 'Xebia | Xpirit Hello World Docker Action'
-description: 'Example Docker Action'
+name: 'Xebia | Xpirit Hello World Typescript Action'
+description: 'Example Typescript Action'
 author: 'Xebia | Xpirit'
 inputs:
   milliseconds: # change this
